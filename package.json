@@ -1,0 +1,16 @@
+{
+	"name" : "stater",
+	"version" : "0.0.1",
+	"description" : "A simple finite state machine",
+	"homepage" : "https://github.com/jmanero/stater",
+	"author" : {
+		"name" : "John Manero",
+		"email" : "jmanero@dyn.com"
+	},
+	"keywords" : [ "fsm", "state machine", "state" ],
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/jmanero/stater.git"
+	},
+	"license" : "MIT"
+}
